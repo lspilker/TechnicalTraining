@@ -13,3 +13,8 @@ Ethereum Address of the Smart Contract:
 ```
 
 ```
+
+Solidity Documentation 
+```
+https://solidity.readthedocs.io/en/v0.5.2/
+```
