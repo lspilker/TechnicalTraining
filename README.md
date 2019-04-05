@@ -6,12 +6,10 @@ Material and Excercises for the Blockchain Technical Training
 Ip-Address of the AWS Instance (Node):
 
 ```
-3.121.184.28:8544
 ```
 
 Ethereum Address of the Smart Contract: 
 ```
-0x99d7ab8ad0e104bf877229dc1121715abfd9360a
 ```
 
 Solidity Documentation 
