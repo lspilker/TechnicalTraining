@@ -11,7 +11,7 @@ Ip-Address of the AWS Instance (Node):
 
 Ethereum Address of the Smart Contract: 
 ```
-
+0x99d7ab8ad0e104bf877229dc1121715abfd9360a
 ```
 
 Solidity Documentation 
