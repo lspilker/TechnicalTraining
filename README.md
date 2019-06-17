@@ -3,6 +3,12 @@ Material and Excercises for the Blockchain Technical Training
 
 ## Information
 
+Online IDE for Ethereum:
+
+```
+http://remix.ethereum.org
+```
+
 Ip-Address of the AWS Instance (Node):
 
 ```
